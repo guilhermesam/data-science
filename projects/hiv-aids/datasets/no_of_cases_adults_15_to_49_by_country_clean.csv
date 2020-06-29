@@ -1,0 +1,681 @@
+Country,Year,Count,Count_median,Count_min,Count_max,WHO Region
+Afghanistan, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Albania, 2018,na,,,,Europe
+Algeria, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Angola, 2018,2.0[1.7–2.3],2.0,1.7,2.3,Africa
+Argentina, 2018,0.4[0.4–0.4],0.4,0.4,0.4,Americas
+Armenia, 2018,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+Australia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Austria, 2018,na,,,,Europe
+Azerbaijan, 2018,na,,,,Europe
+Bahamas, 2018,1.8[1.5–1.9],1.8,1.5,1.9,Americas
+Bahrain, 2018,na,,,,Eastern Mediterranean
+Bangladesh, 2018,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Barbados, 2018,1.5[1.3–1.7],1.5,1.3,1.7,Americas
+Belarus, 2018,0.5[0.4–0.6],0.5,0.4,0.6,Europe
+Belgium, 2018,na,,,,Europe
+Belize, 2018,1.9[1.7–2.1],1.9,1.7,2.1,Americas
+Benin, 2018,1.0[0.7–1.7],1.0,0.7,1.7,Africa
+Bhutan, 2018,0.3[0.1–0.5],0.3,0.1,0.5,South-East Asia
+Bolivia (Plurinational State of), 2018,0.3[0.3–0.3],0.3,0.3,0.3,Americas
+Bosnia and Herzegovina, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Botswana, 2018,20.3[17.3–21.8],20.3,17.3,21.8,Africa
+Brazil, 2018,0.5[0.4–0.7],0.5,0.4,0.7,Americas
+Brunei Darussalam, 2018,na,,,,Western Pacific
+Bulgaria, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Burkina Faso, 2018,0.7[0.6–0.9],0.7,0.6,0.9,Africa
+Burundi, 2018,1.0[0.9–1.2],1.0,0.9,1.2,Africa
+Cabo Verde, 2018,0.6[0.5–0.7],0.6,0.5,0.7,Africa
+Cambodia, 2018,0.5[0.5–0.6],0.5,0.5,0.6,Western Pacific
+Cameroon, 2018,3.6[3.1–4.0],3.6,3.1,4.0,Africa
+Canada, 2018,na,,,,Americas
+Central African Republic, 2018,3.6[2.9–4.5],3.6,2.9,4.5,Africa
+Chad, 2018,1.3[1.0–1.7],1.3,1.0,1.7,Africa
+Chile, 2018,0.5[0.5–0.6],0.5,0.5,0.6,Americas
+China, 2018,na,,,,Western Pacific
+Colombia, 2018,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Comoros, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Congo, 2018,2.6[2.0–3.5],2.6,2.0,3.5,Americas
+Costa Rica, 2018,0.4[0.4–0.5],0.4,0.4,0.5,Americas
+Côte d'Ivoire, 2018,2.6[2.0–3.3],2.6,2.0,3.3,Africa
+Croatia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Cuba, 2018,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Cyprus, 2018,na,,,,Europe
+Czechia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Democratic People's Republic of Korea, 2018,na,,,,Western Pacific
+Democratic Republic of the Congo, 2018,0.8[0.6–0.9],0.8,0.6,0.9,Africa
+Denmark, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Djibouti, 2018,1.2[1.0–1.5],1.2,1.0,1.5,Eastern Mediterranean
+Dominican Republic, 2018,0.9[0.7–1.3],0.9,0.7,1.3,Americas
+Ecuador, 2018,0.4[0.2–0.6],0.4,0.2,0.6,Americas
+Egypt, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+El Salvador, 2018,0.6[0.5–0.7],0.6,0.5,0.7,Americas
+Equatorial Guinea, 2018,7.1[5.6–9.2],7.1,5.6,9.2,Africa
+Eritrea, 2018,0.7[0.5–0.9],0.7,0.5,0.9,Africa
+Estonia, 2018,0.9[0.7–0.9],0.9,0.7,0.9,Europe
+Eswatini, 2018,27.3[25.1–29.0],27.3,25.1,29.0,Africa
+Ethiopia, 2018,1.0[0.7–1.4],1.0,0.7,1.4,Africa
+Fiji, 2018,na,,,,Western Pacific
+Finland, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+France, 2018,0.3[0.3–0.4],0.3,0.3,0.4,Europe
+Gabon, 2018,3.8[2.9–4.9],3.8,2.9,4.9,Africa
+Gambia, 2018,1.9[1.6–2.5],1.9,1.6,2.5,Africa
+Georgia, 2018,0.4[0.3–0.4],0.4,0.3,0.4,Europe
+Germany, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Ghana, 2018,1.7[1.4–2.0],1.7,1.4,2.0,Africa
+Greece, 2018,na,,,,Europe
+Guatemala, 2018,0.4[0.3–0.4],0.4,0.3,0.4,Americas
+Guinea, 2018,1.4[1.2–1.7],1.4,1.2,1.7,Africa
+Guinea-Bissau, 2018,3.5[3.0–4.0],3.5,3.0,4.0,Africa
+Guyana, 2018,1.4[1.3–1.6],1.4,1.3,1.6,Americas
+Haiti, 2018,2.0[1.8–2.3],2.0,1.8,2.3,Americas
+Honduras, 2018,0.3[0.3–0.4],0.3,0.3,0.4,Americas
+Hungary, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Iceland, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+India, 2018,na,,,,South-East Asia
+Indonesia, 2018,0.4[0.4–0.5],0.4,0.4,0.5,South-East Asia
+Iran (Islamic Republic of), 2018,0.1[0.1–0.2],0.1,0.1,0.2,Eastern Mediterranean
+Ireland, 2018,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Israel, 2018,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+Italy, 2018,0.3[0.2–0.3],0.3,0.2,0.3,Europe
+Jamaica, 2018,1.9[1.6–2.1],1.9,1.6,2.1,Americas
+Japan, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Jordan, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kazakhstan, 2018,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Kenya, 2018,4.7[4.0–5.7],4.7,4.0,5.7,Africa
+Kuwait, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kyrgyzstan, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Europe
+Lao People's Democratic Republic, 2018,0.3[0.2–0.3],0.3,0.2,0.3,Western Pacific
+Latvia, 2018,0.4[0.4–0.5],0.4,0.4,0.5,Europe
+Lebanon, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lesotho, 2018,23.6[21.2–24.7],23.6,21.2,24.7,Africa
+Liberia, 2018,1.3[1.1–1.4],1.3,1.1,1.4,Africa
+Libya, 2018,0.2[0.2–0.2],0.2,0.2,0.2,Eastern Mediterranean
+Lithuania, 2018,na,,,,Europe
+Luxembourg, 2018,0.3[0.2–0.3],0.3,0.2,0.3,Europe
+Madagascar, 2018,0.3[0.2–0.4],0.3,0.2,0.4,Africa
+Malawi, 2018,9.2[8.0–10.0],9.2,8.0,10.0,Africa
+Malaysia, 2018,0.4[0.4–0.5],0.4,0.4,0.5,Western Pacific
+Maldives, 2018,na,,,,South-East Asia
+Mali, 2018,1.4[1.1–1.7],1.4,1.1,1.7,Africa
+Malta, 2018,na,,,,Europe
+Mauritania, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Africa
+Mauritius, 2018,1.3[1.1–1.5],1.3,1.1,1.5,Africa
+Mexico, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Mongolia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Montenegro, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Morocco, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Mozambique, 2018,12.6[10.0–15.7],12.6,10.0,15.7,Africa
+Myanmar, 2018,0.8[0.6–0.9],0.8,0.6,0.9,South-East Asia
+Namibia, 2018,11.8[10.6–12.7],11.8,10.6,12.7,Africa
+Nepal, 2018,0.1[0.1–0.2],0.1,0.1,0.2,South-East Asia
+Netherlands, 2018,na,,,,Europe
+New Zealand, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Nicaragua, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Niger, 2018,0.3[0.2–0.3],0.3,0.2,0.3,Africa
+Nigeria, 2018,1.5[1.1–2.1],1.5,1.1,2.1,Africa
+Norway, 2018,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Oman, 2018,0.2[0.1–0.2],0.2,0.1,0.2,Eastern Mediterranean
+Pakistan, 2018,0.1[0.1–0.2],0.1,0.1,0.2,Eastern Mediterranean
+Panama, 2018,0.9[0.8–1.0],0.9,0.8,1.0,Americas
+Papua New Guinea, 2018,0.8[0.7–0.9],0.8,0.7,0.9,Western Pacific
+Paraguay, 2018,0.5[0.3–0.7],0.5,0.3,0.7,Americas
+Peru, 2018,0.3[0.2–0.4],0.3,0.2,0.4,Americas
+Philippines, 2018,0.1[0.1–0.2],0.1,0.1,0.2,Western Pacific
+Poland, 2018,na,,,,Europe
+Portugal, 2018,0.5[0.4–0.5],0.5,0.4,0.5,Europe
+Qatar, 2018,na,,,,Eastern Mediterranean
+Republic of Korea, 2018,na,,,,Western Pacific
+Republic of Moldova, 2018,0.6[0.5–0.8],0.6,0.5,0.8,Europe
+Republic of North Macedonia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Romania, 2018,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Russian Federation, 2018,na,,,,Europe
+Rwanda, 2018,2.5[2.1–2.8],2.5,2.1,2.8,Africa
+Saudi Arabia, 2018,na,,,,Eastern Mediterranean
+Senegal, 2018,0.4[0.4–0.5],0.4,0.4,0.5,Africa
+Serbia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Sierra Leone, 2018,1.5[1.2–1.9],1.5,1.2,1.9,Africa
+Singapore, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Western Pacific
+Slovakia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Slovenia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Somalia, 2018,0.1[0.1–0.2],0.1,0.1,0.2,Eastern Mediterranean
+South Africa, 2018,20.4[17.4–22.5],20.4,17.4,22.5,Africa
+South Sudan, 2018,2.5[1.9–3.1],2.5,1.9,3.1,Africa
+Spain, 2018,0.3[0.3–0.4],0.3,0.3,0.4,Europe
+Sri Lanka, 2018,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Sudan, 2018,0.2[0.1–0.5],0.2,0.1,0.5,Eastern Mediterranean
+Suriname, 2018,1.4[0.9–2.0],1.4,0.9,2.0,Americas
+Sweden, 2018,na,,,,Europe
+Switzerland, 2018,na,,,,Europe
+Syrian Arab Republic, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Tajikistan, 2018,0.2[0.2–0.3],0.2,0.2,0.3,Europe
+Thailand, 2018,1.1[0.9–1.3],1.1,0.9,1.3,South-East Asia
+Timor-Leste, 2018,na,,,,South-East Asia
+Togo, 2018,2.3[2.1–2.5],2.3,2.1,2.5,Africa
+Trinidad and Tobago, 2018,na,,,,Americas
+Tunisia, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Turkey, 2018,na,,,,Europe
+Turkmenistan, 2018,na,,,,Europe
+Uganda, 2018,5.7[5.4–6.1],5.7,5.4,6.1,Africa
+Ukraine, 2018,1.0[0.9–1.0],1.0,0.9,1.0,Europe
+United Arab Emirates, 2018,na,,,,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland, 2018,na,,,,Europe
+United Republic of Tanzania, 2018,4.6[4.0–5.1],4.6,4.0,5.1,Africa
+United States of America, 2018,na,,,,Americas
+Uruguay, 2018,0.6[0.4–0.8],0.6,0.4,0.8,Americas
+Uzbekistan, 2018,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Venezuela (Bolivarian Republic of), 2018,na,,,,Americas
+Viet Nam, 2018,0.3[0.3–0.4],0.3,0.3,0.4,Western Pacific
+Yemen, 2018,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Zambia, 2018,11.3[10.0–12.6],11.3,10.0,12.6,Africa
+Zimbabwe, 2018,12.7[10.8–14.5],12.7,10.8,14.5,Africa
+Afghanistan, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Albania, 2010,na,,,,Europe
+Algeria, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Angola, 2010,1.7[1.5–2.0],1.7,1.5,2.0,Africa
+Argentina, 2010,0.4[0.3–0.4],0.4,0.3,0.4,Americas
+Armenia, 2010,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+Australia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Austria, 2010,na,,,,Europe
+Azerbaijan, 2010,na,,,,Europe
+Bahamas, 2010,2.2[1.9–2.5],2.2,1.9,2.5,Americas
+Bahrain, 2010,na,,,,Eastern Mediterranean
+Bangladesh, 2010,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Barbados, 2010,1.3[1.2–1.4],1.3,1.2,1.4,Americas
+Belarus, 2010,0.2[0.2–0.3],0.2,0.2,0.3,Europe
+Belgium, 2010,na,,,,Europe
+Belize, 2010,1.9[1.7–2.1],1.9,1.7,2.1,Americas
+Benin, 2010,1.1[0.7–1.8],1.1,0.7,1.8,Africa
+Bhutan, 2010,0.3[0.1–0.6],0.3,0.1,0.6,South-East Asia
+Bolivia (Plurinational State of), 2010,0.4[0.3–0.4],0.4,0.3,0.4,Americas
+Bosnia and Herzegovina, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Botswana, 2010,23.2[20.9–24.8],23.2,20.9,24.8,Africa
+Brazil, 2010,0.5[0.4–0.6],0.5,0.4,0.6,Americas
+Brunei Darussalam, 2010,na,,,,Western Pacific
+Bulgaria, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Burkina Faso, 2010,1.2[0.9–1.4],1.2,0.9,1.4,Africa
+Burundi, 2010,1.6[1.3–1.8],1.6,1.3,1.8,Africa
+Cabo Verde, 2010,0.6[0.5–0.8],0.6,0.5,0.8,Africa
+Cambodia, 2010,0.8[0.7–1.0],0.8,0.7,1.0,Western Pacific
+Cameroon, 2010,4.5[3.9–4.9],4.5,3.9,4.9,Africa
+Canada, 2010,na,,,,Americas
+Central African Republic, 2010,5.0[4.2–5.9],5.0,4.2,5.9,Africa
+Chad, 2010,1.5[1.2–1.8],1.5,1.2,1.8,Africa
+Chile, 2010,0.4[0.3–0.4],0.4,0.3,0.4,Americas
+China, 2010,na,,,,Western Pacific
+Colombia, 2010,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Comoros, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Congo, 2010,3.1[2.6–3.7],3.1,2.6,3.7,Americas
+Costa Rica, 2010,0.3[0.3–0.3],0.3,0.3,0.3,Americas
+Côte d'Ivoire, 2010,3.6[2.8–4.6],3.6,2.8,4.6,Africa
+Croatia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Cuba, 2010,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Cyprus, 2010,na,,,,Europe
+Czechia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Democratic People's Republic of Korea, 2010,na,,,,Western Pacific
+Democratic Republic of the Congo, 2010,1.1[0.9–1.3],1.1,0.9,1.3,Africa
+Denmark, 2010,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Djibouti, 2010,1.6[1.2–1.9],1.6,1.2,1.9,Eastern Mediterranean
+Dominican Republic, 2010,1.2[0.9–1.5],1.2,0.9,1.5,Americas
+Ecuador, 2010,0.4[0.2–0.6],0.4,0.2,0.6,Americas
+Egypt, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+El Salvador, 2010,0.7[0.6–0.9],0.7,0.6,0.9,Americas
+Equatorial Guinea, 2010,5.7[4.8–6.7],5.7,4.8,6.7,Africa
+Eritrea, 2010,0.9[0.7–1.2],0.9,0.7,1.2,Africa
+Estonia, 2010,0.7[0.6–0.8],0.7,0.6,0.8,Europe
+Eswatini, 2010,27.4[25.2–29.3],27.4,25.2,29.3,Africa
+Ethiopia, 2010,1.3[1.0–1.8],1.3,1.0,1.8,Africa
+Fiji, 2010,na,,,,Western Pacific
+Finland, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+France, 2010,0.3[0.3–0.4],0.3,0.3,0.4,Europe
+Gabon, 2010,4.1[3.4–5.0],4.1,3.4,5.0,Africa
+Gambia, 2010,1.9[1.5–2.4],1.9,1.5,2.4,Africa
+Georgia, 2010,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Germany, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Ghana, 2010,1.9[1.6–2.2],1.9,1.6,2.2,Africa
+Greece, 2010,na,,,,Europe
+Guatemala, 2010,0.6[0.5–0.6],0.6,0.5,0.6,Americas
+Guinea, 2010,1.6[1.3–1.9],1.6,1.3,1.9,Africa
+Guinea-Bissau, 2010,3.8[3.4–4.3],3.8,3.4,4.3,Africa
+Guyana, 2010,1.5[1.4–1.7],1.5,1.4,1.7,Americas
+Haiti, 2010,2.1[2.0–2.3],2.1,2.0,2.3,Americas
+Honduras, 2010,0.5[0.4–0.6],0.5,0.4,0.6,Americas
+Hungary, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Iceland, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+India, 2010,na,,,,South-East Asia
+Indonesia, 2010,0.4[0.3–0.4],0.4,0.3,0.4,South-East Asia
+Iran (Islamic Republic of), 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Ireland, 2010,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+Israel, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Italy, 2010,0.3[0.2–0.3],0.3,0.2,0.3,Europe
+Jamaica, 2010,2.1[1.8–2.3],2.1,1.8,2.3,Americas
+Japan, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Jordan, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kazakhstan, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Kenya, 2010,6.0[5.1–7.1],6.0,5.1,7.1,Africa
+Kuwait, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kyrgyzstan, 2010,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Lao People's Democratic Republic, 2010,0.3[0.2–0.3],0.3,0.2,0.3,Western Pacific
+Latvia, 2010,0.3[0.3–0.4],0.3,0.3,0.4,Europe
+Lebanon, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lesotho, 2010,24.1[22.7–24.9],24.1,22.7,24.9,Africa
+Liberia, 2010,1.7[1.5–2.0],1.7,1.5,2.0,Africa
+Libya, 2010,0.2[0.1–0.2],0.2,0.1,0.2,Eastern Mediterranean
+Lithuania, 2010,na,,,,Europe
+Luxembourg, 2010,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Madagascar, 2010,0.2[0.2–0.2],0.2,0.2,0.2,Africa
+Malawi, 2010,10.6[9.3–11.7],10.6,9.3,11.7,Africa
+Malaysia, 2010,0.4[0.4–0.5],0.4,0.4,0.5,Western Pacific
+Maldives, 2010,na,,,,South-East Asia
+Mali, 2010,1.4[1.1–1.6],1.4,1.1,1.6,Africa
+Malta, 2010,na,,,,Europe
+Mauritania, 2010,0.4[0.3–0.4],0.4,0.3,0.4,Africa
+Mauritius, 2010,1.3[1.2–1.4],1.3,1.2,1.4,Africa
+Mexico, 2010,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Mongolia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Montenegro, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Morocco, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Mozambique, 2010,12.0[9.5–14.9],12.0,9.5,14.9,Africa
+Myanmar, 2010,0.8[0.6–0.9],0.8,0.6,0.9,South-East Asia
+Namibia, 2010,13.4[12.2–14.2],13.4,12.2,14.2,Africa
+Nepal, 2010,0.2[0.2–0.2],0.2,0.2,0.2,South-East Asia
+Netherlands, 2010,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+New Zealand, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Nicaragua, 2010,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Niger, 2010,0.4[0.4–0.5],0.4,0.4,0.5,Africa
+Nigeria, 2010,1.6[1.2–2.1],1.6,1.2,2.1,Africa
+Norway, 2010,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Oman, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Pakistan, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Panama, 2010,0.8[0.8–0.9],0.8,0.8,0.9,Americas
+Papua New Guinea, 2010,0.8[0.7–1.0],0.8,0.7,1.0,Western Pacific
+Paraguay, 2010,0.5[0.4–0.8],0.5,0.4,0.8,Americas
+Peru, 2010,0.3[0.3–0.5],0.3,0.3,0.5,Americas
+Philippines, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Poland, 2010,na,,,,Europe
+Portugal, 2010,0.6[0.5–0.6],0.6,0.5,0.6,Europe
+Qatar, 2010,na,,,,Eastern Mediterranean
+Republic of Korea, 2010,na,,,,Western Pacific
+Republic of Moldova, 2010,0.5[0.4–0.7],0.5,0.4,0.7,Europe
+Republic of North Macedonia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Romania, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Russian Federation, 2010,na,,,,Europe
+Rwanda, 2010,3.3[2.8–3.7],3.3,2.8,3.7,Africa
+Saudi Arabia, 2010,na,,,,Eastern Mediterranean
+Senegal, 2010,0.6[0.5–0.6],0.6,0.5,0.6,Africa
+Serbia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Sierra Leone, 2010,1.5[1.2–1.9],1.5,1.2,1.9,Africa
+Singapore, 2010,0.3[0.2–0.3],0.3,0.2,0.3,Western Pacific
+Slovakia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Slovenia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Somalia, 2010,0.3[0.2–0.3],0.3,0.2,0.3,Eastern Mediterranean
+South Africa, 2010,18.9[16.8–20.7],18.9,16.8,20.7,Africa
+South Sudan, 2010,2.4[1.9–3.0],2.4,1.9,3.0,Africa
+Spain, 2010,0.4[0.3–0.4],0.4,0.3,0.4,Europe
+Sri Lanka, 2010,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Sudan, 2010,0.2[0.2–0.3],0.2,0.2,0.3,Eastern Mediterranean
+Suriname, 2010,1.4[1.0–1.9],1.4,1.0,1.9,Americas
+Sweden, 2010,na,,,,Europe
+Switzerland, 2010,na,,,,Europe
+Syrian Arab Republic, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Tajikistan, 2010,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Thailand, 2010,1.5[1.2–1.8],1.5,1.2,1.8,South-East Asia
+Timor-Leste, 2010,na,,,,South-East Asia
+Togo, 2010,2.9[2.6–3.1],2.9,2.6,3.1,Africa
+Trinidad and Tobago, 2010,na,,,,Americas
+Tunisia, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Turkey, 2010,na,,,,Europe
+Turkmenistan, 2010,na,,,,Europe
+Uganda, 2010,6.8[6.5–7.1],6.8,6.5,7.1,Africa
+Ukraine, 2010,0.9[0.9–0.9],0.9,0.9,0.9,Europe
+United Arab Emirates, 2010,na,,,,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland, 2010,na,,,,Europe
+United Republic of Tanzania, 2010,5.0[4.3–5.7],5.0,4.3,5.7,Africa
+United States of America, 2010,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Uruguay, 2010,0.5[0.4–0.5],0.5,0.4,0.5,Americas
+Uzbekistan, 2010,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Venezuela (Bolivarian Republic of), 2010,na,,,,Americas
+Viet Nam, 2010,0.4[0.3–0.4],0.4,0.3,0.4,Western Pacific
+Yemen, 2010,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Zambia, 2010,13.0[11.5–14.5],13.0,11.5,14.5,Africa
+Zimbabwe, 2010,15.4[13.1–17.5],15.4,13.1,17.5,Africa
+Afghanistan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Albania, 2005,na,,,,Europe
+Algeria, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Angola, 2005,1.4[1.2–1.7],1.4,1.2,1.7,Africa
+Argentina, 2005,0.3[0.3–0.4],0.3,0.3,0.4,Americas
+Armenia, 2005,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Australia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Austria, 2005,na,,,,Europe
+Azerbaijan, 2005,na,,,,Europe
+Bahamas, 2005,2.3[1.9–2.7],2.3,1.9,2.7,Americas
+Bahrain, 2005,na,,,,Eastern Mediterranean
+Bangladesh, 2005,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Barbados, 2005,1.0[0.9–1.1],1.0,0.9,1.1,Americas
+Belarus, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Belgium, 2005,na,,,,Europe
+Belize, 2005,1.7[1.5–1.9],1.7,1.5,1.9,Americas
+Benin, 2005,1.3[0.8–2.1],1.3,0.8,2.1,Africa
+Bhutan, 2005,0.3[0.1–0.6],0.3,0.1,0.6,South-East Asia
+Bolivia (Plurinational State of), 2005,0.5[0.5–0.5],0.5,0.5,0.5,Americas
+Bosnia and Herzegovina, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Botswana, 2005,24.6[22.1–25.9],24.6,22.1,25.9,Africa
+Brazil, 2005,0.5[0.3–0.6],0.5,0.3,0.6,Americas
+Brunei Darussalam, 2005,na,,,,Western Pacific
+Bulgaria, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Burkina Faso, 2005,1.5[1.1–1.8],1.5,1.1,1.8,Africa
+Burundi, 2005,2.2[1.7–2.6],2.2,1.7,2.6,Africa
+Cabo Verde, 2005,0.6[0.5–1.0],0.6,0.5,1.0,Africa
+Cambodia, 2005,1.0[0.8–1.2],1.0,0.8,1.2,Western Pacific
+Cameroon, 2005,4.8[4.3–5.1],4.8,4.3,5.1,Africa
+Canada, 2005,na,,,,Americas
+Central African Republic, 2005,5.9[4.9–7.0],5.9,4.9,7.0,Africa
+Chad, 2005,1.5[1.2–2.0],1.5,1.2,2.0,Africa
+Chile, 2005,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+China, 2005,na,,,,Western Pacific
+Colombia, 2005,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Comoros, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Congo, 2005,3.5[2.8–4.1],3.5,2.8,4.1,Americas
+Costa Rica, 2005,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Côte d'Ivoire, 2005,4.4[3.4–5.6],4.4,3.4,5.6,Africa
+Croatia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Cuba, 2005,0.1[0.1–0.2],0.1,0.1,0.2,Americas
+Cyprus, 2005,na,,,,Europe
+Czechia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Democratic People's Republic of Korea, 2005,na,,,,Western Pacific
+Democratic Republic of the Congo, 2005,1.4[1.2–1.7],1.4,1.2,1.7,Africa
+Denmark, 2005,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Djibouti, 2005,2.1[1.8–2.5],2.1,1.8,2.5,Eastern Mediterranean
+Dominican Republic, 2005,1.4[1.1–1.9],1.4,1.1,1.9,Americas
+Ecuador, 2005,0.4[0.2–0.6],0.4,0.2,0.6,Americas
+Egypt, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+El Salvador, 2005,0.7[0.5–0.9],0.7,0.5,0.9,Americas
+Equatorial Guinea, 2005,4.6[3.6–5.9],4.6,3.6,5.9,Africa
+Eritrea, 2005,1.1[0.8–1.5],1.1,0.8,1.5,Africa
+Estonia, 2005,0.7[0.6–0.7],0.7,0.6,0.7,Europe
+Eswatini, 2005,26.3[23.9–27.8],26.3,23.9,27.8,Africa
+Ethiopia, 2005,1.7[1.2–2.2],1.7,1.2,2.2,Africa
+Fiji, 2005,na,,,,Western Pacific
+Finland, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+France, 2005,0.3[0.3–0.3],0.3,0.3,0.3,Europe
+Gabon, 2005,4.2[3.3–5.3],4.2,3.3,5.3,Africa
+Gambia, 2005,1.8[1.4–2.3],1.8,1.4,2.3,Africa
+Georgia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Germany, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Ghana, 2005,2.1[1.8–2.4],2.1,1.8,2.4,Africa
+Greece, 2005,na,,,,Europe
+Guatemala, 2005,0.7[0.6–0.7],0.7,0.6,0.7,Americas
+Guinea, 2005,1.7[1.4–1.9],1.7,1.4,1.9,Africa
+Guinea-Bissau, 2005,3.8[3.4–4.2],3.8,3.4,4.2,Africa
+Guyana, 2005,1.3[1.1–1.4],1.3,1.1,1.4,Americas
+Haiti, 2005,2.4[2.2–2.6],2.4,2.2,2.6,Americas
+Honduras, 2005,0.7[0.5–0.9],0.7,0.5,0.9,Americas
+Hungary, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Iceland, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+India, 2005,na,,,,South-East Asia
+Indonesia, 2005,0.2[0.2–0.3],0.2,0.2,0.3,South-East Asia
+Iran (Islamic Republic of), 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Ireland, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Israel, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Italy, 2005,0.2[0.2–0.3],0.2,0.2,0.3,Europe
+Jamaica, 2005,2.3[2.0–2.6],2.3,2.0,2.6,Americas
+Japan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Jordan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kazakhstan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Kenya, 2005,7.3[6.2–8.7],7.3,6.2,8.7,Africa
+Kuwait, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kyrgyzstan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Lao People's Democratic Republic, 2005,0.2[0.2–0.3],0.2,0.2,0.3,Western Pacific
+Latvia, 2005,0.3[0.2–0.3],0.3,0.2,0.3,Europe
+Lebanon, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lesotho, 2005,23.8[22.9–24.8],23.8,22.9,24.8,Africa
+Liberia, 2005,2.1[1.9–2.4],2.1,1.9,2.4,Africa
+Libya, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lithuania, 2005,na,,,,Europe
+Luxembourg, 2005,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+Madagascar, 2005,0.2[0.2–0.2],0.2,0.2,0.2,Africa
+Malawi, 2005,12.2[10.5–13.4],12.2,10.5,13.4,Africa
+Malaysia, 2005,0.4[0.4–0.5],0.4,0.4,0.5,Western Pacific
+Maldives, 2005,na,,,,South-East Asia
+Mali, 2005,1.5[1.2–1.8],1.5,1.2,1.8,Africa
+Malta, 2005,na,,,,Europe
+Mauritania, 2005,0.5[0.4–0.6],0.5,0.4,0.6,Africa
+Mauritius, 2005,1.0[0.8–1.4],1.0,0.8,1.4,Africa
+Mexico, 2005,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Mongolia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Montenegro, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Morocco, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Mozambique, 2005,11.1[8.9–13.8],11.1,8.9,13.8,Africa
+Myanmar, 2005,0.8[0.6–0.9],0.8,0.6,0.9,South-East Asia
+Namibia, 2005,13.8[12.6–14.7],13.8,12.6,14.7,Africa
+Nepal, 2005,0.2[0.2–0.2],0.2,0.2,0.2,South-East Asia
+Netherlands, 2005,0.2[0.1–0.2],0.2,0.1,0.2,Europe
+New Zealand, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Nicaragua, 2005,0.2[0.1–0.3],0.2,0.1,0.3,Americas
+Niger, 2005,0.6[0.5–0.6],0.6,0.5,0.6,Africa
+Nigeria, 2005,1.7[1.2–2.2],1.7,1.2,2.2,Africa
+Norway, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Oman, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Pakistan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Panama, 2005,0.8[0.7–0.8],0.8,0.7,0.8,Americas
+Papua New Guinea, 2005,1.0[0.9–1.1],1.0,0.9,1.1,Western Pacific
+Paraguay, 2005,0.6[0.4–0.8],0.6,0.4,0.8,Americas
+Peru, 2005,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Philippines, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Poland, 2005,na,,,,Europe
+Portugal, 2005,0.6[0.5–0.6],0.6,0.5,0.6,Europe
+Qatar, 2005,na,,,,Eastern Mediterranean
+Republic of Korea, 2005,na,,,,Western Pacific
+Republic of Moldova, 2005,0.4[0.3–0.5],0.4,0.3,0.5,Europe
+Republic of North Macedonia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Romania, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Russian Federation, 2005,na,,,,Europe
+Rwanda, 2005,3.8[3.2–4.3],3.8,3.2,4.3,Africa
+Saudi Arabia, 2005,na,,,,Eastern Mediterranean
+Senegal, 2005,0.7[0.6–0.7],0.7,0.6,0.7,Africa
+Serbia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Sierra Leone, 2005,1.5[1.3–1.9],1.5,1.3,1.9,Africa
+Singapore, 2005,0.2[0.1–0.2],0.2,0.1,0.2,Western Pacific
+Slovakia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Slovenia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Somalia, 2005,0.4[0.3–0.4],0.4,0.3,0.4,Eastern Mediterranean
+South Africa, 2005,16.8[15.0–18.4],16.8,15.0,18.4,Africa
+South Sudan, 2005,2.5[2.0–3.2],2.5,2.0,3.2,Africa
+Spain, 2005,0.4[0.3–0.4],0.4,0.3,0.4,Europe
+Sri Lanka, 2005,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Sudan, 2005,0.2[0.1–0.2],0.2,0.1,0.2,Eastern Mediterranean
+Suriname, 2005,1.3[1.0–1.9],1.3,1.0,1.9,Americas
+Sweden, 2005,na,,,,Europe
+Switzerland, 2005,na,,,,Europe
+Syrian Arab Republic, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Tajikistan, 2005,0.1[0.1–0.2],0.1,0.1,0.2,Europe
+Thailand, 2005,1.6[1.3–2.1],1.6,1.3,2.1,South-East Asia
+Timor-Leste, 2005,na,,,,South-East Asia
+Togo, 2005,3.3[3.0–3.6],3.3,3.0,3.6,Africa
+Trinidad and Tobago, 2005,na,,,,Americas
+Tunisia, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Turkey, 2005,na,,,,Europe
+Turkmenistan, 2005,na,,,,Europe
+Uganda, 2005,7.3[6.9–7.6],7.3,6.9,7.6,Africa
+Ukraine, 2005,0.9[0.8–0.9],0.9,0.8,0.9,Europe
+United Arab Emirates, 2005,na,,,,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland, 2005,na,,,,Europe
+United Republic of Tanzania, 2005,5.4[4.6–6.1],5.4,4.6,6.1,Africa
+United States of America, 2005,na,,,,Americas
+Uruguay, 2005,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Uzbekistan, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Venezuela (Bolivarian Republic of), 2005,na,,,,Americas
+Viet Nam, 2005,0.3[0.3–0.4],0.3,0.3,0.4,Western Pacific
+Yemen, 2005,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Zambia, 2005,14.1[12.5–15.8],14.1,12.5,15.8,Africa
+Zimbabwe, 2005,19.0[16.2–21.6],19.0,16.2,21.6,Africa
+Afghanistan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Albania, 2000,na,,,,Europe
+Algeria, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Angola, 2000,1.0[0.8–1.2],1.0,0.8,1.2,Africa
+Argentina, 2000,0.3[0.3–0.3],0.3,0.3,0.3,Americas
+Armenia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Australia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Austria, 2000,na,,,,Europe
+Azerbaijan, 2000,na,,,,Europe
+Bahamas, 2000,2.6[2.2–3.1],2.6,2.2,3.1,Americas
+Bahrain, 2000,na,,,,Eastern Mediterranean
+Bangladesh, 2000,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Barbados, 2000,0.7[0.6–0.8],0.7,0.6,0.8,Americas
+Belarus, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Belgium, 2000,na,,,,Europe
+Belize, 2000,1.3[1.2–1.4],1.3,1.2,1.4,Americas
+Benin, 2000,1.3[0.9–2.2],1.3,0.9,2.2,Africa
+Bhutan, 2000,0.2[0.1–0.3],0.2,0.1,0.3,South-East Asia
+Bolivia (Plurinational State of), 2000,0.5[0.5–0.5],0.5,0.5,0.5,Americas
+Bosnia and Herzegovina, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Botswana, 2000,26.3[25.1–27.2],26.3,25.1,27.2,Africa
+Brazil, 2000,0.4[0.3–0.5],0.4,0.3,0.5,Americas
+Brunei Darussalam, 2000,na,,,,Western Pacific
+Bulgaria, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Burkina Faso, 2000,2.1[1.7–2.6],2.1,1.7,2.6,Africa
+Burundi, 2000,3.3[2.8–4.0],3.3,2.8,4.0,Africa
+Cabo Verde, 2000,0.7[0.5–1.1],0.7,0.5,1.1,Africa
+Cambodia, 2000,1.2[1.1–1.4],1.2,1.1,1.4,Western Pacific
+Cameroon, 2000,4.6[4.3–4.9],4.6,4.3,4.9,Africa
+Canada, 2000,na,,,,Americas
+Central African Republic, 2000,7.2[6.1–8.6],7.2,6.1,8.6,Africa
+Chad, 2000,1.8[1.3–2.3],1.8,1.3,2.3,Africa
+Chile, 2000,0.2[0.1–0.2],0.2,0.1,0.2,Americas
+China, 2000,na,,,,Western Pacific
+Colombia, 2000,0.4[0.4–0.5],0.4,0.4,0.5,Americas
+Comoros, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Africa
+Congo, 2000,4.2[3.4–5.1],4.2,3.4,5.1,Americas
+Costa Rica, 2000,0.2[0.2–0.2],0.2,0.2,0.2,Americas
+Côte d'Ivoire, 2000,5.6[4.4–7.2],5.6,4.4,7.2,Africa
+Croatia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Cuba, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Americas
+Cyprus, 2000,na,,,,Europe
+Czechia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Democratic People's Republic of Korea, 2000,na,,,,Western Pacific
+Democratic Republic of the Congo, 2000,1.8[1.5–2.1],1.8,1.5,2.1,Africa
+Denmark, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Djibouti, 2000,2.2[1.7–2.9],2.2,1.7,2.9,Eastern Mediterranean
+Dominican Republic, 2000,1.7[1.3–2.4],1.7,1.3,2.4,Americas
+Ecuador, 2000,0.4[0.2–0.6],0.4,0.2,0.6,Americas
+Egypt, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+El Salvador, 2000,0.6[0.5–0.7],0.6,0.5,0.7,Americas
+Equatorial Guinea, 2000,3.5[2.5–4.9],3.5,2.5,4.9,Africa
+Eritrea, 2000,1.5[1.1–1.9],1.5,1.1,1.9,Africa
+Estonia, 2000,0.4[0.4–0.5],0.4,0.4,0.5,Europe
+Eswatini, 2000,24.6[23.0–26.5],24.6,23.0,26.5,Africa
+Ethiopia, 2000,2.4[1.7–3.2],2.4,1.7,3.2,Africa
+Fiji, 2000,na,,,,Western Pacific
+Finland, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+France, 2000,0.2[0.2–0.3],0.2,0.2,0.3,Europe
+Gabon, 2000,4.1[3.0–5.6],4.1,3.0,5.6,Africa
+Gambia, 2000,1.4[1.1–1.9],1.4,1.1,1.9,Africa
+Georgia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Germany, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Ghana, 2000,2.4[2.1–2.7],2.4,2.1,2.7,Africa
+Greece, 2000,na,,,,Europe
+Guatemala, 2000,0.7[0.7–0.7],0.7,0.7,0.7,Americas
+Guinea, 2000,1.7[1.4–2.0],1.7,1.4,2.0,Africa
+Guinea-Bissau, 2000,3.2[2.8–3.5],3.2,2.8,3.5,Africa
+Guyana, 2000,0.6[0.4–0.7],0.6,0.4,0.7,Americas
+Haiti, 2000,3.0[2.7–3.4],3.0,2.7,3.4,Americas
+Honduras, 2000,1.1[0.9–1.4],1.1,0.9,1.4,Americas
+Hungary, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Iceland, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+India, 2000,na,,,,South-East Asia
+Indonesia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Iran (Islamic Republic of), 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Ireland, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Israel, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Italy, 2000,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Jamaica, 2000,2.8[2.5–3.0],2.8,2.5,3.0,Americas
+Japan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Jordan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kazakhstan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Kenya, 2000,9.8[8.4–11.7],9.8,8.4,11.7,Africa
+Kuwait, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Kyrgyzstan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Lao People's Democratic Republic, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Latvia, 2000,0.2[0.2–0.2],0.2,0.2,0.2,Europe
+Lebanon, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lesotho, 2000,23.2[21.5–24.8],23.2,21.5,24.8,Africa
+Liberia, 2000,2.6[2.4–2.7],2.6,2.4,2.7,Africa
+Libya, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Lithuania, 2000,na,,,,Europe
+Luxembourg, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Madagascar, 2000,0.2[0.1–0.3],0.2,0.1,0.3,Africa
+Malawi, 2000,14.4[13.0–15.4],14.4,13.0,15.4,Africa
+Malaysia, 2000,0.4[0.3–0.5],0.4,0.3,0.5,Western Pacific
+Maldives, 2000,na,,,,South-East Asia
+Mali, 2000,1.8[1.5–2.2],1.8,1.5,2.2,Africa
+Malta, 2000,na,,,,Europe
+Mauritania, 2000,0.4[0.4–0.5],0.4,0.4,0.5,Africa
+Mauritius, 2000,0.4[0.2–0.8],0.4,0.2,0.8,Africa
+Mexico, 2000,0.2[0.2–0.3],0.2,0.2,0.3,Americas
+Mongolia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Montenegro, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Morocco, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Mozambique, 2000,8.8[7.0–11.0],8.8,7.0,11.0,Africa
+Myanmar, 2000,0.6[0.5–0.7],0.6,0.5,0.7,South-East Asia
+Namibia, 2000,14.0[13.1–15.1],14.0,13.1,15.1,Africa
+Nepal, 2000,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Netherlands, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+New Zealand, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Nicaragua, 2000,0.1[0.1–0.2],0.1,0.1,0.2,Americas
+Niger, 2000,0.6[0.5–0.7],0.6,0.5,0.7,Africa
+Nigeria, 2000,1.8[1.3–2.4],1.8,1.3,2.4,Africa
+Norway, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Oman, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Pakistan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Panama, 2000,0.6[0.6–0.7],0.6,0.6,0.7,Americas
+Papua New Guinea, 2000,0.6[0.5–0.8],0.6,0.5,0.8,Western Pacific
+Paraguay, 2000,0.5[0.3–0.7],0.5,0.3,0.7,Americas
+Peru, 2000,0.5[0.4–0.6],0.5,0.4,0.6,Americas
+Philippines, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Western Pacific
+Poland, 2000,na,,,,Europe
+Portugal, 2000,0.5[0.5–0.6],0.5,0.5,0.6,Europe
+Qatar, 2000,na,,,,Eastern Mediterranean
+Republic of Korea, 2000,na,,,,Western Pacific
+Republic of Moldova, 2000,0.3[0.3–0.4],0.3,0.3,0.4,Europe
+Republic of North Macedonia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Romania, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Russian Federation, 2000,na,,,,Europe
+Rwanda, 2000,5.2[4.6–5.9],5.2,4.6,5.9,Africa
+Saudi Arabia, 2000,na,,,,Eastern Mediterranean
+Senegal, 2000,0.6[0.5–0.7],0.6,0.5,0.7,Africa
+Serbia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Sierra Leone, 2000,1.5[1.2–1.9],1.5,1.2,1.9,Africa
+Singapore, 2000,0.1[0.1–0.2],0.1,0.1,0.2,Western Pacific
+Slovakia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Slovenia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Somalia, 2000,0.4[0.3–0.4],0.4,0.3,0.4,Eastern Mediterranean
+South Africa, 2000,12.6[10.7–13.9],12.6,10.7,13.9,Africa
+South Sudan, 2000,2.5[1.5–3.2],2.5,1.5,3.2,Africa
+Spain, 2000,0.4[0.3–0.4],0.4,0.3,0.4,Europe
+Sri Lanka, 2000,0.1[0.1–0.1],0.1,0.1,0.1,South-East Asia
+Sudan, 2000,0.1[0.1–0.2],0.1,0.1,0.2,Eastern Mediterranean
+Suriname, 2000,1.1[0.8–1.6],1.1,0.8,1.6,Americas
+Sweden, 2000,na,,,,Europe
+Switzerland, 2000,na,,,,Europe
+Syrian Arab Republic, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Tajikistan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Thailand, 2000,2.0[1.6–2.5],2.0,1.6,2.5,South-East Asia
+Timor-Leste, 2000,na,,,,South-East Asia
+Togo, 2000,3.6[3.2–3.8],3.6,3.2,3.8,Africa
+Trinidad and Tobago, 2000,na,,,,Americas
+Tunisia, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Turkey, 2000,na,,,,Europe
+Turkmenistan, 2000,na,,,,Europe
+Uganda, 2000,8.3[7.7–8.9],8.3,7.7,8.9,Africa
+Ukraine, 2000,0.6[0.6–0.7],0.6,0.6,0.7,Europe
+United Arab Emirates, 2000,na,,,,Eastern Mediterranean
+United Kingdom of Great Britain and Northern Ireland, 2000,na,,,,Europe
+United Republic of Tanzania, 2000,6.3[5.5–6.9],6.3,5.5,6.9,Africa
+United States of America, 2000,na,,,,Americas
+Uruguay, 2000,0.3[0.2–0.6],0.3,0.2,0.6,Americas
+Uzbekistan, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Europe
+Venezuela (Bolivarian Republic of), 2000,na,,,,Americas
+Viet Nam, 2000,0.3[0.2–0.3],0.3,0.2,0.3,Western Pacific
+Yemen, 2000,0.1[0.1–0.1],0.1,0.1,0.1,Eastern Mediterranean
+Zambia, 2000,16.2[14.3–18.2],16.2,14.3,18.2,Africa
+Zimbabwe, 2000,25.0[21.2–28.3],25.0,21.2,28.3,Africa

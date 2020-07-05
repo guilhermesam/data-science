@@ -14,7 +14,8 @@ No processo de visualização de dados, foram então construídos dois barplots,
 
 ![games_per_platform](https://github.com/guilhermesam/data-science/blob/master/projects/metacritic-2011_2019/images/games_per_platform.jpg)
 
-No período de análise de dados, foi identificado um problema na maneira que a busca por uma resposta para gêneros favoritos apresentava. Não era suficiente apenas somar as avaliações dos jogos agrupados por gênero, já que essa média seria enganosa em casos de gêneros com poucos jogos, como foi o caso do gênero "3D". Este problema está sendo resolvido, porém considerei interessante realizar este relato da importância de não apenas fazer ciência de dados, mas fazer a ciência de dados correta, que consiga demonstrar a realidade como ela é, evitando criar uma realidade farsante.
+No período de análise de dados, foi identificado um problema na maneira que a busca por uma resposta para gêneros favoritos apresentava. Não era suficiente apenas somar as avaliações dos jogos agrupados por gênero, já que essa média seria enganosa em casos de gêneros com poucos jogos, como foi o caso do gênero "3D". Este problema está sendo resolvido, porém considerei interessante realizar este relato da importância de fazer a ciência de dados que modele corretamente a realidade, evitando que sejam tomadas decisões erradas ou conclusões precipitadas.
+
 
 ![favorite_genres](https://github.com/guilhermesam/data-science/blob/master/projects/metacritic-2011_2019/images/favorite_genres.jpg)
 

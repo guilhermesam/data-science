@@ -143,3 +143,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Files
+
+projects/fuel_2019/datasets/fuel.csv

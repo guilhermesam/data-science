@@ -145,5 +145,5 @@ dmypy.json
 .pyre/
 
 # Files
-
+projects/fuel_2019/datasets/cleaned_fuel.csv
 projects/fuel_2019/datasets/fuel.csv

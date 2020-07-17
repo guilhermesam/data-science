@@ -13,7 +13,7 @@ Este repositório foi construído com o objetivo de armazenar os códigos-fonte 
   - Conceitos básicos de visualização de dados;
   - Discussão sobre validações das respostas obtidas;
   
-- #### [Análise histórica de preços de combustíveis no 1° semestre](https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019);
+- #### [Análise de preços de combustíveis no 1° semestre de 2019 no Brasil](https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019);
   - Aplicação de data cleansing;
   - Decisões de análise de dados;
   - Utilização de heatmap;

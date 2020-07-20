@@ -21,4 +21,6 @@ Com o dataframe de preço por estado gerado, foi gerado um gráfico estilo heatm
 
 ![price_by_state_heatmap](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/images/fuel2019.jpg)
 
+Respondendo à segunda questão, foi gerado um gráfico do matplotlib.pyplot, do estilo plot, cujo eixo x representa a data de coleta, exibida em mês, e o eixo y representa o preço médio de venda. 
 
+![alegrete_fuel](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/images/alegrete_fuel.jpg)

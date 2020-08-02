@@ -9,16 +9,7 @@ Este repositório foi construído com o objetivo de armazenar os códigos-fonte 
 
 ## O que está sendo feito atualmente ?
 - #### [Análise de dados de videogames baseado em avaliações do Metacritic](https://github.com/guilhermesam/data-science/tree/master/projects/metacritic-2011_2019);
-  - Aplicação de data cleansing;
-  - Conceitos básicos de visualização de dados;
-  - Discussão sobre validações das respostas obtidas;
   
 - #### [Análise de preços de combustíveis no 1° semestre de 2019 no Brasil](https://github.com/guilhermesam/data-science/tree/master/projects/fuel_2019);
-  - Aplicação de data cleansing;
-  - Decisões de análise de dados;
-  - Utilização de heatmap;
-  - Validação das respostas obtidas;
   
-- #### Análise de partidas ranqueadas do high elo de League of Legends; (em construção)
-
-- #### Análise sobre vendas globais de videogames; (em construção) 
+- #### [Análise de partidas competitivas de League of Legends](em construção)

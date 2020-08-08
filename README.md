@@ -11,7 +11,6 @@ Este repositório foi construído com o objetivo de armazenar os códigos-fonte 
 - **training:** local onde estão armazenados notebooks .ipynb contendo testes ou breves tutoriais sobre alguma ferramenta utilizada no processo de data science.	
 
 ## Projetos	
-- #### [Análise de dados de videogames baseado em avaliações do Metacritic](https://github.com/guilhermesam/data-science/tree/master/projects/metacritic-2011_2019);	
 - #### [Análise de preços de combustíveis no 1° semestre de 2019 no Brasil](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb);	
 
 - #### [Análise de partidas competitivas de League of Legends](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb);

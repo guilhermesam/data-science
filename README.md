@@ -1,0 +1,28 @@
+# Data Science	
+
+![feymann](https://pbs.twimg.com/media/DlMxO-jWsAA0-qP.jpg)
+
+This repository was built to store the source codes created on the data science processes, in addition to presenting any questions to be answered in each analysis process and the results obtained.
+
+## Directory Structure :rocket:
+
+- **coursera:** place where the scripts built in the Coursera Data Science course are stored.
+- **projects:** place where the source codes of the personal Data Science projects created are stored.
+- **training:** location where .ipynb notebooks are stored containing tests or brief tutorials on any tool used in the data science process.
+
+## Projects :fire:	
+  ### [Analysis of fuel prices in the first half of 2019 in Brazil](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb)
+  - What is the average price of each type of fuel in each state of Brazil?
+  - What was the average price of gas in Alegrete?
+  
+  - **DOING** ⚙️: 
+    - Investigate other databases to build a historic fuel price series;
+    - Compare past data from the city of Alegrete;
+
+  ### [League of Legends competitive match analysis <img src="https://3.bp.blogspot.com/-weDqm5JxCWQ/VdDtk2WvvSI/AAAAAAAAGh0/7PdkJ_r4ojw/s1600/image%2B187.png" width="50" height="40" >](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb)
+   - Most selected champions in 2018, listing by role;
+   - Which Summoner's Rift locations have the most kills, per game time;
+   
+   - **DOING** ⚙️:
+     - Investigation on which attributes of the match have the greatest influence on the result;
+     - Comparison of attributes of Low Elo vs High Elo matches;

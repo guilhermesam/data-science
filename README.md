@@ -2,15 +2,27 @@
 
 ![feymann](https://pbs.twimg.com/media/DlMxO-jWsAA0-qP.jpg)
 
-Este repositório foi construído com o objetivo de armazenar os códigos-fonte utilizados no processo de análise de dados, além de apresentar eventuais questões a serem respondidas em cada processo de análise e os resultados obtidos. 	
+This repository was built to store the source codes created on the data science processes, in addition to presenting any questions to be answered in each analysis process and the results obtained.
 
-## Estrutura de diretórios :rocket:
+## Directory Structure :rocket:
 
-- **coursera:** local onde estão armazenados os scripts construídos no curso de Data Science do Coursera.	
-- **projects:** local onde estão armazenados os códigos-fonte dos projetos pessoais de Data Science criados.	
-- **training:** local onde estão armazenados notebooks .ipynb contendo testes ou breves tutoriais sobre alguma ferramenta utilizada no processo de data science.	
+- **coursera:** place where the scripts built in the Coursera Data Science course are stored.
+- **projects:** place where the source codes of the personal Data Science projects created are stored.
+- **training:** location where .ipynb notebooks are stored containing tests or brief tutorials on any tool used in the data science process.
 
-## Projetos	
-- #### [Análise de preços de combustíveis no 1° semestre de 2019 no Brasil](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb);	
+## Projects :fire:	
+  ### [Analysis of fuel prices in the first half of 2019 in Brazil](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb)
+  - What is the average price of each type of fuel in each state of Brazil?
+  - What was the average price of gas in Alegrete?
+  
+  - **DOING** ⚙️: 
+    - Investigate other databases to build a historic fuel price series;
+    - Compare past data from the city of Alegrete;
 
-- #### [Análise de partidas competitivas de League of Legends](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb);
+  ### [League of Legends competitive match analysis <img src="https://3.bp.blogspot.com/-weDqm5JxCWQ/VdDtk2WvvSI/AAAAAAAAGh0/7PdkJ_r4ojw/s1600/image%2B187.png" width="50" height="40" >](https://github.com/guilhermesam/data-science/blob/master/projects/lol-analysis/storytelling.ipynb)
+   - Most selected champions in 2018, listing by role;
+   - Which Summoner's Rift locations have the most kills, per game time;
+   
+   - **DOING** ⚙️:
+     - Investigation on which attributes of the match have the greatest influence on the result;
+     - Comparison of attributes of Low Elo vs High Elo matches;

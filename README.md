@@ -11,6 +11,9 @@ This repository was built to store the source codes created on the data science 
 - **training:** location where .ipynb notebooks are stored containing tests or brief tutorials on any tool used in the data science process.
 
 ## Projects :fire:	
+  ### [Rainfall vs Number of fires in Brazilian Amazon:fire:](https://github.com/guilhermesam/data-science/blob/master/projects/rainfall-vs-fires-in-amazon/storytelling.ipynb)
+  - There is a relationship between number of fires and rainfall?
+    
   ### [Analysis of fuel prices in the first half of 2019 in Brazil :car:](https://github.com/guilhermesam/data-science/blob/master/projects/fuel_2019/storytelling.ipynb)
   - What is the average price of each type of fuel in each state of Brazil?
   - What was the average price of gas in Alegrete?

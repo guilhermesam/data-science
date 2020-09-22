@@ -12,6 +12,9 @@ __pycache__/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+projects/predict_highelo_games
+projects/metacritic-2011_2019
+projects/video-games-sales
 
 # IPython
 profile_default/
